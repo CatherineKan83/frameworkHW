@@ -2,7 +2,19 @@
 <module version="4">
   <component name="AdditionalModuleElements">
     <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/HW10/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HW11/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HW12/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/HW3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HW4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HW5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HW6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HW7/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HW8/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HW9/HW9/microservice-1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HW9/HW9/microservice-2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HW9/HW9/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HW9/eureka_server/src" isTestSource="false" />
     </content>
   </component>
 </module>
